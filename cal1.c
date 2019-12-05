@@ -22,17 +22,17 @@ case 1 : int add=0;
 break;
  case 2 :int sub=0;
         sub=a+b;
-         printf("addition is:",sub);
+         printf("sub is:",sub);
           break;
 case 3 : 
-     int sub=0;
-        sub=a+b;
-         printf("addition is:",sub);
+     int mul=0;
+        mul=a*b;
+         printf("mul is:",mul);
           break;
 case 4 : 
-int sub=0;
-        sub=a+b;
-         printf("addition is:",sub);
+int div=0;
+        div=a/b;
+         printf("div is:",div);
           break;
 case 5 : break;
 
